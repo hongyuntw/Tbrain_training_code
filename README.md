@@ -1,1 +1,3 @@
 # Tbrain_training_code
+
+這邊的code 是屬於train 名字分類階段的，即判斷經過ckiptagger後的名字是否屬於AML焦點人物
